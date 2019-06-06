@@ -1,6 +1,6 @@
 # my-project
 
-> my-project
+> my-peoject
 
 ## Build Setup
 
